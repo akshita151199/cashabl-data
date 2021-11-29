@@ -1,0 +1,13 @@
+{
+    "hero_section_data" : {
+        "heading": "A new era of <span><span>NFT</span> utility</span>",
+        "tagling": "Easily implement the latest technology and unlock the benefits of truly digital NFT blockchain ",
+        "buttons": [
+          {
+            "text": "Get Started",
+            "link": "http://cashable.nurturelabs.co/",
+            "icon": "/images/arrow.svg"
+          }
+        ]
+      }
+}
